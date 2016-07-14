@@ -1,0 +1,4 @@
+YouTube experiments
+com-youtube.all16386.txt is the file corresponding to the YouTube dataset.
+The dataset was downloaded from: https://snap.stanford.edu/data/com-Youtube.html, and it was provided by Alan Mislove et al.
+
